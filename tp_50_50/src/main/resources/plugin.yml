@@ -1,0 +1,6 @@
+name: tp_50_50
+version: '${project.version}'
+main: tp.org.tp_50_50.Tp_50_50
+api-version: '1.20'
+commands:
+  tp5050:
