@@ -1,0 +1,6 @@
+name: tp_tp_50_tad
+version: '1.0-SNAPSHOT'
+main: tp.org.tp_tp_50_tad.Tp_tp_50_tad
+api-version: '1.20'
+commands:
+  tp5050:
