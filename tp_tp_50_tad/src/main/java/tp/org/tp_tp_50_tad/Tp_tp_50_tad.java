@@ -9,6 +9,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 import java.util.PriorityQueue;
 import org.bukkit.World;
 import org.bukkit.Bukkit;
+
 public final class Tp_tp_50_tad extends JavaPlugin {
     private PriorityQueue<TeleportRequest> teleportQueue;
 
